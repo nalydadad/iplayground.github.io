@@ -332,7 +332,6 @@ export default class App extends PureComponent {
       topic: "Life of A Cell",
       abstract: "講解 CollectionView 的生命週期"
     },
-    /*
     {
       id: _.uniqueId(),
       name: "張景隆",
@@ -414,7 +413,6 @@ export default class App extends PureComponent {
       intro:
         "Hi 我是 Vivian ，目前任職於 KKBOX，是 KKBOX Application 的 Software Quality Assurance。主要負責的領域是 KKBOX iOS Application Automation，採用的測試框架為 XCUITest。一路以來收穫了不少能讓 XCUITest 穩定度及速度提升的技巧，並且成功讓我們的 Flaky rate 降到現在的 1.37%。誠心希望這場分享能夠讓大家有所收穫。"
     }
-    */
   ];
 
   staff = [
